@@ -9,5 +9,5 @@ if ($url === '/slow') {
     return;
 }
 
-echo "Hello, world! Eu sou a máquina com IP <b>{$_SERVER['SERVER_ADDR']}</b>\n";
+echo "Hello, Campitelli!</b>\n";
 
